@@ -1,23 +1,26 @@
-go to dynjspof folder and execute and run
+## Build angular app (aot)
+go to `dynjspof` folder and execute and run
 
 ``` npm i ```
 
 ``` npm run build ```
 
-go to dynjspof-plugins folder and run
+## Build plugins (ts -> js)
+go to `dynjspof-plugins` folder and run
 
 ``` npm i ```
 
 ``` npx tsc ```
 
-copy dynjspof-plugins *out* folder to *dist* folder
+copy dynjspof-plugins `out` folder to angular `dist` folder
 
-go to dist folder and run
+## Try it
+go to `dist` folder and run
 
 ``` npx http-server ```
 
-open browser and try to write e.g. 
+open browser **in incognito** and write e.g. 
 
-```out/plugin```  
+```out/p1```  
 
-then click *load*
+then click `load`
