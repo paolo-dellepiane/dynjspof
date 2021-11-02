@@ -24,3 +24,5 @@ open browser **in incognito** and write e.g.
 ```out/p1```  
 
 then click `load`
+
+![Screenshot 2021-11-02 190432](https://user-images.githubusercontent.com/24250552/139920927-41b4e53f-1949-4f33-b2b1-6410610528b8.png)
